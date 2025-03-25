@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syaasr&label=Profile%20views&color=0e75b6&style=flat" alt="syaasr" /> </p>
 
-- 🏷️ You can call me Asril
+- 😅 You can call me Asril
 
-- 🌱 I’m interested in **Machine Learning, Web 3 and Robotic**
+- 💡 I’m interested in **Machine Learning, Web 3 and Robotic**
 
 - 📫 How to reach me **maulana23firdaus@gmail.com**
 
