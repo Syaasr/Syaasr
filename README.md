@@ -4,18 +4,20 @@
 
 <br clear="both">
 
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syaasr&theme=github-dark-dimmed&area=true" height="150" alt="activity-graph graph"  />
-  <img src="https://streak-stats.demolab.com?user=Syaasr&locale=en&mode=daily&theme=discord_old_blurple&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Syaasr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Syaasr&locale=en&hide_title=false&layout=compact&card_width=320&theme=discord_old_blurple&hide_border=false" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syaasr&theme=github-dark-dimmed&area=true&radius=10&hide_border=false" height="150" alt="activity-graph graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=Syaasr&locale=en&mode=daily&theme=discord_old_blurple&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Syaasr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Syaasr&locale=en&hide_title=false&layout=compact&card_width=320&theme=discord_old_blurple&hide_border=false" height="150" alt="languages graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=Syaasr&theme=discord&margin-w=1&margin-h=1&column=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Syaasr/count.svg?"  />
+<br clear="both">
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Syaasr.Syaasr&"  />
 </div>
 
 ###
@@ -43,8 +45,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <a href="https://www.instagram.com/syaikhasrilmf/" target="_blank">
