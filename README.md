@@ -1,4 +1,4 @@
-<h2 align="left">Hi @everyone 👋! <br>My name is Syaikhasril and I'm a Computer Science Student at Sebelas Maret University 👨‍💻</h2>
+<h3 align="left">Hi @everyone 👋! <br>My name is Syaikhasril</h3>
 
 ###
 
