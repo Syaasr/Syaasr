@@ -1,4 +1,4 @@
-<h1 align="left">Hi @everyone 👋! <br>My name is Syaikhasril<br>I'm a Computer Science Student👨‍💻</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2240B3&width=435&lines=Hello%2C+I'm+Syaikhasril+%F0%9F%91%8B;You+can+call+me+Asril+%F0%9F%98%8E;Robotic+and+Crypto+Enthusiast+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 ###
 
