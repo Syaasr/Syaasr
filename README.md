@@ -5,7 +5,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Syaasr&locale=en&mode=daily&theme=discord_old_blurple&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Syaasr&locale=en&hide_title=false&layout=compact&card_width=320&theme=discord_old_blurple&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syaasr&theme=github-dark-dimmed&area=true&radius=10&hide_border=false" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
